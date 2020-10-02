@@ -1,0 +1,31 @@
+body {
+  background-image: linear-gradient(
+    rgb(255, 103, 174),
+    rgb(255, 255, 79),
+    rgb(79, 255, 152),
+    rgb(74, 198, 255),
+    rgb(255, 66, 198)
+  );
+}
+
+#space {
+  background: url(http://www.zingerbugimages.com/backgrounds/starry_sky_glitter_background_seamless.gif);
+  width: 50%;
+  color: white;
+  overflow-wrap: break-word;
+  padding: 3%;
+  border-radius: 4px;
+}
+
+#space2 {
+  background: url(https://img.pngio.com/via-giphy-editing-in-2019-aesthetic-gif-colorful-backgrounds-glitter-gif-png-480_480.gif);
+  background-size: contain;
+}
+
+#rainbowFalling {
+  width: 50%;
+}
+
+#h1 {
+  color: blue;
+}
