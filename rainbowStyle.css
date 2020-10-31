@@ -8,6 +8,18 @@ body {
   );
 }
 
+.card {
+  background-color: white;
+  width: 17%;
+  height: 25%;
+  border-radius: 4px;
+}
+
+#bottom {
+  bottom: 0;
+  right: 0;
+}
+
 #space {
   background: url(http://www.zingerbugimages.com/backgrounds/starry_sky_glitter_background_seamless.gif);
   width: 50%;
